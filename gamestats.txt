@@ -1,4 +1,4 @@
 Number of easy games: 0
-Number of medium games: 2
+Number of medium games: 0
 Number of hard games: 0
 Number of impossible games: 0
